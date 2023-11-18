@@ -6,7 +6,7 @@ Fundamentos de programación
    ```bash
    git config --global user.name "edro720189"
    git config --global user.email "edwin.rodriguez22@itca.edu.sv"
-  ```
+   ```
 
 2. **Clonar un Repositorio:**
 
