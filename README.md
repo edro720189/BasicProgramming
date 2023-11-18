@@ -3,8 +3,10 @@ Fundamentos de programación
 
 #Comando básicos de Git
 1. **Configurar Git con tus credenciales:**
-git config --global user.name "edro720189"
-git config --global user.email "edwin.rodriguez22@itca.edu.sv"
+   ```bash
+   git config --global user.name "edro720189"
+   git config --global user.email "edwin.rodriguez22@itca.edu.sv"
+  ```
 
 2. **Clonar un Repositorio:**
 
